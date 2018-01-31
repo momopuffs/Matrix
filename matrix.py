@@ -85,3 +85,4 @@ print (list)
 SmallMatrix=matrix.createNewMatrix(matrixName,list)
 
 print(SmallMatrix)
+print(SmallMatrix)
